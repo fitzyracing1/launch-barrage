@@ -1,2 +1,5 @@
 # launch-barrage
-Barrage plain-language clone of fitzyracing1/launch
+
+Barrage clone of [fitzyracing1/launch](https://github.com/fitzyracing1/launch).
+
+Read [listing.barrage](listing.barrage).
